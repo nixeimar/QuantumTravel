@@ -1,6 +1,6 @@
 # 3-Qubit Quantum Circuit Sampler (Qiskit + IBM Quantum)
 
-This project demonstrates how to build and execute a 3-qubit quantum circuit using [Qiskit](https://qiskit.org/) and [IBM Quantum](https://quantum-computing.ibm.com/). The circuit is executed on the least busy *real* IBM Quantum backend, with a fallback to simulator, and results are visualized using a histogram.
+This project creates a 3-qubit quantum circuit using [Qiskit](https://qiskit.org/) and [IBM Quantum](https://quantum-computing.ibm.com/) to for simulating temporal consistency in the presence of retrocausality and coexisting multiverse configurations. The circuit is executed on the least busy *real* IBM Quantum backend, with a fallback to simulator, and results are visualized using a histogram.
 
 ---
 
