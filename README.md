@@ -89,6 +89,6 @@ Pull requests are welcome! Feel free to fork this repo and experiment with the c
 
 ---
 
-## 📢 Contact
+## Contact
 
 Questions? Reach out via [GitHub Issues](https://github.com/your-username/your-repo/issues).
