@@ -72,9 +72,6 @@ Job ID: cr9g1m3qb72kq9qvl7bg
 
 Histogram (example):
 
-> _You can optionally include an actual screenshot of the histogram output here._  
-> _Just add an image to your repo and replace the placeholder below._
-
 ![Quantum Histogram](example_histogram.png)
 
 ---
