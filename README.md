@@ -1,6 +1,8 @@
-# 3-Qubit Quantum Circuit for simulating temporal consistency in the presence of retrocausality and coexisting multiverse configurations (Qiskit + IBM Quantum)
+# Quantum Ambiguity Resolution Circuit (Qiskit + IBM Quantum)
  
-This project creates a 3-qubit quantum circuit using [Qiskit](https://qiskit.org/) and [IBM Quantum](https://quantum-computing.ibm.com/) for simulating temporal consistency in the presence of retrocausality and coexisting multiverse configurations. The circuit is executed on the least busy *real* IBM Quantum backend, with a fallback to simulator, and results are visualized using a histogram. The user needs to have an account in IBM quantum (https://quantum.ibm.com/). 
+This repository contains the Qiskit implementation of a 3-qubit quantum circuit for enforcing logical consistency in ambiguous natural language inputs.  
+Qubit 0 encodes ambiguity, Qubit 1 models disambiguation strategies, and Qubit 2 acts as a coherence flag.  
+The circuit flips the flag only when ambiguity is present without resolution, enforcing consistency through quantum logic on IBM's Quantum hardware. 
 
 ---
 
